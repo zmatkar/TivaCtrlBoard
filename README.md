@@ -1,6 +1,10 @@
 # ZAMP_HW
-ZAMP hardware sources 
+ZAMP hardware sources. 
 
-ZAMP = ZmaTKar's pohe Amplifier
-This project uses slightly modified audio processor https://github.com/freeDSP/freeDSP-CLASSIC-SMD-B.
-And XMOS based USB audio card type, for example: https://www.ebay.com/itm/144014049552?hash=item2187e80110:g:uSMAAOSwbYRgfeWG.
+## ZAMP = ZmaTKar's headphone Amplifier
+
+It is based on control part/PCB with TM4C123G6H microcontroller. This board is not designed specifically
+for this project - main purpose is to be universal control board with monochromatic display, RGB LED and
+rotary encoder which fits into small aluminium case - https://www.aliexpress.com/item/1005001699595657.html
+
+
