@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "sound_card_ctl-rescue")(type "Legacy")(uri "${KIPRJMOD}/sound_card_ctl-rescue.lib")(options "")(descr ""))
-)
