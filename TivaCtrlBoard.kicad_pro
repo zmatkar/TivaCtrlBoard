@@ -351,7 +351,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "zamp.kicad_pro",
+    "filename": "TivaCtrlBoard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -428,6 +428,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "1be7a041-1736-4ba0-8bc6-a153fd28c74b",
+      ""
+    ]
+  ],
   "text_variables": {}
 }
